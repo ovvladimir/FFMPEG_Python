@@ -1,5 +1,7 @@
 # http://wiki.rosalab.ru/ru/index.php/FFmpeg
+# https://andreyv.ru/ffmpeg-zapis-video-s-ehkrana.html
 # https://help.ubuntu.ru/wiki/ffmpeg
+# https://trac.ffmpeg.org/wiki/StreamingGuide
 import subprocess
 
 devices = subprocess.run(
